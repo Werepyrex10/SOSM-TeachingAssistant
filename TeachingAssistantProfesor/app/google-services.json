@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "432727425122",
+    "firebase_url": "https://teaching-assistant-9aab9.firebaseio.com",
+    "project_id": "teaching-assistant-9aab9",
+    "storage_bucket": "teaching-assistant-9aab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432727425122:android:c6931dbfe0dfa518",
+        "android_client_info": {
+          "package_name": "malvolyo.teachingassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432727425122-s2i8o9uqhcs80dvc3khmrjv5ouje8sge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "malvolyo.teachingassistant",
+            "certificate_hash": "7fc878aad0cbac23624570e9247373a9ec77b78f"
+          }
+        },
+        {
+          "client_id": "432727425122-gh7pcprpgi2piqup9ol64sbhut69mupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBrhhZvIXSaCWBQ-_KJZ2EVbqu4vdxPo"
+        },
+        {
+          "current_key": "AIzaSyAPCXOHu1fxh-KPCW7QvWWeRXQs1Wk2hiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432727425122-gh7pcprpgi2piqup9ol64sbhut69mupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432727425122:android:b5f04628c9035e21",
+        "android_client_info": {
+          "package_name": "malvolyo.teachingassistantprofesor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432727425122-glnmhbhikqii2ke5mt3tq0she7ds6m13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "malvolyo.teachingassistantprofesor",
+            "certificate_hash": "7fc878aad0cbac23624570e9247373a9ec77b78f"
+          }
+        },
+        {
+          "client_id": "432727425122-gh7pcprpgi2piqup9ol64sbhut69mupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBrhhZvIXSaCWBQ-_KJZ2EVbqu4vdxPo"
+        },
+        {
+          "current_key": "AIzaSyAPCXOHu1fxh-KPCW7QvWWeRXQs1Wk2hiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432727425122-gh7pcprpgi2piqup9ol64sbhut69mupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
