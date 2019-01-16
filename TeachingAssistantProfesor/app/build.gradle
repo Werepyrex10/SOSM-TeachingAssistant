@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId "malvolyo.teachingassistant"
+        applicationId "malvolyo.teachingassistantprofesor"
         minSdkVersion 17
         targetSdkVersion 26
         versionCode 1
@@ -24,13 +24,20 @@ dependencies {
     androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+
+    // MPAndroidChart
     implementation 'com.android.support:appcompat-v7:26.0.0'
-    implementation 'com.android.support:design:26.0.0'
     implementation 'com.google.firebase:firebase-database:10.2.0'
-    implementation 'com.google.firebase:firebase-auth:10.2.0'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.2'
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     testImplementation 'junit:junit:4.12'
 }
+
+
+
+
+
+
 
 
 
